@@ -1,0 +1,55 @@
+{
+  "Gemini 使い方": [
+    {"keyword": "Gemini 始め方 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 無料版でできること", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini プロンプトの書き方", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini 画像生成の使い方", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini 音声会話モード", "priority": "medium", "status": "pending"}
+  ],
+  "Gemini 料金・プラン": [
+    {"keyword": "Gemini Advanced 料金 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Google One AI Premium プラン内容", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 無料 有料 違い", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 学生割引", "priority": "low", "status": "pending"}
+  ],
+  "Gemini Advanced": [
+    {"keyword": "Gemini Advanced 限定機能まとめ", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 2.5 Pro できること", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini Advanced コーディング支援", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini Advanced 長文分析", "priority": "medium", "status": "pending"}
+  ],
+  "Gemini vs ChatGPT": [
+    {"keyword": "Gemini ChatGPT 比較 2026年最新", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini vs Claude どっちがいい", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini vs Copilot 比較", "priority": "medium", "status": "pending"},
+    {"keyword": "AI チャットボット おすすめ 2026", "priority": "medium", "status": "pending"}
+  ],
+  "Gemini API・開発": [
+    {"keyword": "Gemini API 入門ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Google AI Studio 使い方", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini API Python サンプルコード", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini API 料金体系", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini 2.5 Flash API 速度", "priority": "medium", "status": "pending"}
+  ],
+  "Gemini 最新ニュース": [
+    {"keyword": "Gemini チャット履歴移行機能", "priority": "high", "status": "pending"},
+    {"keyword": "Lyria 3 Pro 音楽生成 AI", "priority": "high", "status": "pending"},
+    {"keyword": "Personal Intelligence 無料化", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 2.5 モデル新機能", "priority": "high", "status": "pending"},
+    {"keyword": "Google I/O 2026 AI 発表", "priority": "medium", "status": "pending"}
+  ],
+  "Gemini × Google連携": [
+    {"keyword": "Gemini Gmail 連携 使い方", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini Google Docs 連携", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini Google Sheets 活用", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini Android スマホ活用", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini Google Maps 連携", "priority": "low", "status": "pending"}
+  ],
+  "Gemini 活用事例": [
+    {"keyword": "Gemini ビジネス活用 事例集", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 学習 勉強 活用術", "priority": "high", "status": "pending"},
+    {"keyword": "Gemini 副業 活用法", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini ブログ記事作成 活用", "priority": "medium", "status": "pending"},
+    {"keyword": "Gemini 英語学習 活用", "priority": "medium", "status": "pending"}
+  ]
+}
