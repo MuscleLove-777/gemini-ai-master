@@ -98,7 +98,8 @@
     {
       "keyword": "Gemini API 入門ガイド",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-19T09:56:05.027648"
     },
     {
       "keyword": "Google AI Studio 使い方",
